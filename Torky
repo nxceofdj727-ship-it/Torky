@@ -1,0 +1,24 @@
+#<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Al Turki | ملخصات كتب في النفس والمجتمع والكون</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600;700&family=El+Messiri:wght@500;700&family=IBM+Plex+Sans+Arabic:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --night: #0E1029;
+    --deep: #171A42;
+    --haze: #6A5CA8;
+    --moon: #ECE8F7;
+    --muted: #B7B5D4;
+    --gold: #D6B25E;
+    --line: rgba(236, 232, 247, .16);
+    --display: "El Messiri", "IBM Plex Sans Arabic", serif;
+    --body: "IBM Plex Sans Arabic", "Segoe UI", Tahoma, sans-serif;
+    --logo: "Cormorant Garamond", Georgia, serif;
+  }
+  * { box-sizing: border-box; margin: 0; }
+  :root { box-sizing: border-box; padding-top: env(safe-area-inset-top, 0px); padding-bottom: env(safe-area-inset-bottom, 0px); } Torky
